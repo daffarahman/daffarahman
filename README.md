@@ -4,7 +4,7 @@ A student with a love for coding and creating stuff and currently focused on bri
 
 - ✉️ **Mail me:** [madebydap@gmail.com](mailto:madebydap@gmail.com)
 - 🔗 **Connect:** [linkedin.com/in/daffarahman](https://linkedin.com/in/daffarahman)
-- 🍔 **Website:** [daffarahman.github.io](https://daffarahman.github.io)
+- 🍔 **Website:** [daffarahman.my.id](https://daffarahman.my.id)
 
 ---
 

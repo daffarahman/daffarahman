@@ -6,6 +6,11 @@ A student with a love for coding and creating stuff and currently focused on bri
 - 🔗 **Connect:** [linkedin.com/in/daffarahman](https://linkedin.com/in/daffarahman)
 - 🍔 **Website:** [madebydap.my.id](https://madebydap.my.id)
 
+I also make content on Instagram and TikTok. Feel free to follow me!
+
+- 📸 **Instagram:** [@daffarahmn_](https://instagram.com/daffarahmn_)
+- 🎵 **TikTok:** [just click this](https://www.tiktok.com/@callsigndap)
+
 ---
 
 ### 🛠️ My Tech Stack
@@ -24,8 +29,9 @@ A student with a love for coding and creating stuff and currently focused on bri
 
 #### OS, Tools & Engines
 <p align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Godot-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>

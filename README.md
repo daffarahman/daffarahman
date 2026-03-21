@@ -14,7 +14,8 @@ Checkout my [YouTube](https://www.youtube.com/@madebydap), [Twitter](https://x.c
 - **[Recycopter](https://github.com/daffarahman/recycopter-java)** — Helicopter trash cleaning game made using Java
 
 ## My Current Stack
-For my personal stack i'm currently using
+I work with quite a lot of technologies in the past (you can check it out on my portfolio site).  
+But for my personal stack, i'm currently using:
 
 ### Backend
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> / <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />

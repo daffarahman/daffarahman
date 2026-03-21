@@ -1,6 +1,6 @@
 Founder of [MadeByDap](https://madebydap.com). Creator of [Off The Tracks](https://play.google.com/store/apps/details?id=com.daffarahman.offthetracks). Popular on [Instagram](https://instagram.com/daffarahmn_)
 
-Checkout my [YouTube](https://www.youtube.com/@madebydap), [Twitter](https://x.com/madebydap), [TikTok](https://www.tiktok.com/@callsigndap), or my Portfolio site: [madebydap.com](https://madebydap.com) or personal one: [daffarahman.com](https://daffarahman.com).
+Checkout my [YouTube](https://www.youtube.com/@madebydap), [Twitter](https://x.com/madebydap), [TikTok](https://www.tiktok.com/@callsigndap), or my Portfolio site [madebydap.com](https://madebydap.com) or personal one [daffarahman.com](https://daffarahman.com).
 
 ## Current Projects
 

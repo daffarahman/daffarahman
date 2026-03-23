@@ -2,6 +2,8 @@ Founder of [MadeByDap](https://madebydap.com). Creator of [Off The Tracks](https
 
 Checkout my [YouTube](https://www.youtube.com/@madebydap), [Twitter](https://x.com/madebydap), [TikTok](https://www.tiktok.com/@callsigndap), or my Portfolio site [madebydap.com](https://madebydap.com) or personal one [daffarahman.com](https://daffarahman.com).
 
+You can reach me at [madebydap@gmail.com](mailto:madebydap@gmail.com)  
+
 ## Current Projects
 
 ### Products
